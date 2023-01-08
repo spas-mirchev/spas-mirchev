@@ -18,12 +18,12 @@
   
 - :seedling: Recently, I started building a full-stack platform for discovering early stage musicians and their debut work. With it, I faced the challenge of creating a good recommendation algorithm that tackles both the ‘cold-start’ problem, as well as the ‘over-recommendation’ problem. For my application, I initially started using the apriory algorithm, then moved to the cosine similarity. This triggered my curiosity to study graph-based recommendation systems more in depth to create a smarter recommendation solution.
 
-- :suitcase: You can find here some projects I have worked on so far together with a quick preview
+- 💼 Here are some projects I have worked on so far together with a quick preview
   - [Terminal](https://github.com/spas-mirchev/learning-projects/tree/main/Terminal)
   - [UI](https://github.com/spas-mirchev/learning-projects/tree/main/UI)
   - Data science projects (coming soon!) 
   
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-spas-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/spas-mirchev))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-spas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spas-mirchev)
   
 
 ---
