@@ -5,7 +5,7 @@
 ### :man_technologist: About Me :
 
 - :telescope: I am currently taking part in the Software Engineering Bootcamp at HyperDev which teaches Python and its various frameworks. I have mainly been focused on building backend applications and have also dipped into the world of data science.
-- :seedling: Recently, I started building a full-stack platform for discovering early stage musicians and their debut work. With it, I faced the challenge of creating a good recommendation algorithm that tackles both the ‘cold-start’ problem, as well as the ‘over-recommendation’ problem. For my application, I initially started using the apriory algorithm, then moved to the cosine similarity. This triggered my curiosity to study graph-based recommendation systems more in depth to create a smarter recommendation solution.
+- :seedling: Recently, I started building a full-stack platform for discovering early stage musicians and their debut work ([DebutStream](https://github.com/spas-mirchev/streaming-service)). With it, I faced the challenge of creating a good recommendation algorithm that tackles both the ‘cold-start’ problem, as well as the ‘over-recommendation’ problem. For my application, I initially started using the apriory algorithm, then moved to the cosine similarity. This triggered my curiosity to study graph-based recommendation systems more in depth to create a smarter recommendation solution.
 
 - 💼 Here are some projects I have worked on so far together with a quick preview
 
