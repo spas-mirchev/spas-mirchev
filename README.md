@@ -1,20 +1,19 @@
-
 ### Hi there 👋
 
 ---
+
 ### :man_technologist: About Me :
 
-- :telescope: I am currently taking part in the Software Engineering Bootcamp at HyperDev which teaches Python and its various frameworks. I have mainly been focused on building backend applications and have also dipped into the world of data science.  
-  
+- :telescope: I am currently taking part in the Software Engineering Bootcamp at HyperDev which teaches Python and its various frameworks. I have mainly been focused on building backend applications and have also dipped into the world of data science.
 - :seedling: Recently, I started building a full-stack platform for discovering early stage musicians and their debut work. With it, I faced the challenge of creating a good recommendation algorithm that tackles both the ‘cold-start’ problem, as well as the ‘over-recommendation’ problem. For my application, I initially started using the apriory algorithm, then moved to the cosine similarity. This triggered my curiosity to study graph-based recommendation systems more in depth to create a smarter recommendation solution.
 
 - 💼 Here are some projects I have worked on so far together with a quick preview
+
   - [Terminal](https://github.com/spas-mirchev/learning-projects/tree/main/Terminal)
   - [UI](https://github.com/spas-mirchev/learning-projects/tree/main/UI)
-  - Data science projects (coming soon!) 
-  
+  - [Data science](https://github.com/spas-mirchev/learning-projects/tree/main/Data%20Science)
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-spas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spas-mirchev)
-  
 
 ---
 
@@ -38,7 +37,6 @@
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spas-mirchev&layout=compact&theme=vision-friendly-dark&hide=C,c%2B%2B,Cython)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **spas-mirchev/spas-mirchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
