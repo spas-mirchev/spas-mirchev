@@ -1,19 +1,54 @@
-### Hi there 👋
+### 👋 Hi,
+
+<br>
+
+I [built a few applications](https://github.com/spas-mirchev/learning-projects) using Flask, SQLAlchemy, SQL, Flask-Login, Flask-Bootstrap, Werkzeug and OpenCV:
+
+- [Todoapp](https://github.com/spas-mirchev/learning-projects/tree/main/UI/todoapp)
+
+  Create/complete/update and comment on tickets similar to Trello. It has multi-user authentication and all the data is persisted in a database.
+
+- [Cafe workspace app](https://github.com/spas-mirchev/learning-projects/tree/main/UI/cafe-workspace-app)
+
+  Shows coffee shops on an interactive map. It plots server-side data using LeafletJS on the frontend. There’s a backend filtering on features.
+
+- [Dominant colours](https://github.com/spas-mirchev/learning-projects/tree/main/UI/dominant-colors)
+
+  Uses the K-Means Clustering algorithm to show the dominant colours on a user-uploaded picture. The user can control the number of colours to see.
+
+<br>
+
+I [explored options](https://github.com/spas-mirchev/learning-projects/tree/main/Data%20Science) to add a recommendation algorithm for my debut album project. Technologies: Pytorch, Numpy, Pandas, Plotty and Matplot:
+
+- [Apriori](https://github.com/spas-mirchev/learning-projects/blob/main/Data%20Science/recommendation_models/apriori.ipynb)
+- [Item Collaborative Filtering (CF) & User Collaborative Filtering (CF)](https://github.com/spas-mirchev/learning-projects/blob/main/Data%20Science/recommendation_models/collaborative_filtering.ipynb)
+
+- [Matrix factorization](https://github.com/spas-mirchev/learning-projects/blob/main/Data%20Science/recommendation_models/item_to_item.ipynb)
+
+<br>
+
+I built a [DebutStream](https://github.com/spas-mirchev/debut-stream) full-stack platform for discovering early-stage musicians and their debut work. The challenge was to create two different modes of operation: for end users (Listeners), and for content uploaders (Labels). Functionality:
+
+- Labels can create ‘Artist Pages’: with information about the artist, tour dates, albums and songs.
+
+- The front page for Listeners shows song and artist recommendations.
+
+- There are different permissions for Label users vs Listener users
+
+- Technologies: PostgreSQL database with 14 tables, and 12 route endpoints.
+
+<br>
+<br>
+
+I graduated from [_HyperionDev Software Engineering Bootcamp_](https://www.hyperiondev.com/portfolio/115122) with a score of 142/144 points achieved over 48 tasks.
+
+Before then I completed the Udemy course [_100 Days of Code: The Complete Python Pro Bootcamp_](https://www.udemy.com/course/100-days-of-code/).
 
 ---
 
-### :man_technologist: About Me :
+### :mailbox: How to reach me
 
-- :telescope: I am currently taking part in the Software Engineering Bootcamp at HyperDev which teaches Python and its various frameworks. I have mainly been focused on building backend applications and have also dipped into the world of data science.
-- :seedling: Recently, I started building a full-stack platform for discovering early stage musicians and their debut work ([DebutStream](https://github.com/spas-mirchev/debut-stream)). With it, I faced the challenge of creating a good recommendation algorithm that tackles both the ‘cold-start’ problem, as well as the ‘over-recommendation’ problem. For my application, I initially started using the apriory algorithm, then moved to the cosine similarity. This triggered my curiosity to study graph-based recommendation systems more in depth to create a smarter recommendation solution.
-
-- 💼 Here are some projects I have worked on so far together with a quick preview
-
-  - [Terminal](https://github.com/spas-mirchev/learning-projects/tree/main/Terminal)
-  - [UI](https://github.com/spas-mirchev/learning-projects/tree/main/UI)
-  - [Data science](https://github.com/spas-mirchev/learning-projects/tree/main/Data%20Science)
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-spas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spas-mirchev)
+[![Linkedin Badge](https://img.shields.io/badge/-spas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spas-mirchev)
 
 ---
 
