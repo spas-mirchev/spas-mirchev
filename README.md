@@ -26,17 +26,7 @@ I [explored options](https://github.com/spas-mirchev/learning-projects/tree/main
 - [Matrix factorization](https://github.com/spas-mirchev/learning-projects/blob/main/Data%20Science/recommendation_models/item_to_item.ipynb)
 
 <br>
-
-I built a [DebutStream](https://github.com/spas-mirchev/debut-stream) full-stack platform for discovering early-stage musicians and their debut work. The challenge was to create two different modes of operation: for end users (Listeners), and for content uploaders (Labels). Functionality:
-
-- Labels can create ‘Artist Pages’: with information about the artist, tour dates, albums and songs.
-
-- The front page for Listeners shows song and artist recommendations.
-
-- There are different permissions for Label users vs Listener users
-
-- Technologies: PostgreSQL database with 14 tables, and 12 route endpoints.
-
+I'm working on developing a DebutStream full-stack platform designed for discovering early-stage musicians. Given the prevalence of recommendation algorithms that primarily promote popular artists, it's challenging for debut musicians to gain visibility, and obtaining information about them is often nearly impossible.
 <br>
 <br>
 
